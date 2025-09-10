@@ -1,0 +1,42 @@
+{
+  "personal": {
+    "name": "Alex Johnson",
+    "title": "Full Stack Developer",
+    "shortBio": "Passionate developer crafting beautiful web experiences with modern technologies",
+    "email": "alex.johnson@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "website": "https://alexjohnson.dev",
+    "resumeUrl": "/resume/my_resume.pdf"
+  },
+  "bio": {
+    "longDescription": "I'm a passionate full-stack developer with 5+ years of experience building scalable web applications. I specialize in React, TypeScript, and Node.js, with a keen eye for user experience and performance optimization. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or hiking in the mountains.",
+    "highlights": [
+      "5+ years of full-stack development experience",
+      "Expert in React, TypeScript, and modern web technologies",
+      "Built applications serving 100K+ users",
+      "Open source contributor with 500+ GitHub stars",
+      "Passionate about clean code and user experience"
+    ]
+  },
+  "social": {
+    "github": "https://github.com/alexjohnson",
+    "linkedin": "https://linkedin.com/in/alexjohnson",
+    "twitter": "https://twitter.com/alexjohnson",
+    "dribbble": "https://dribbble.com/alexjohnson",
+    "instagram": "https://instagram.com/alexjohnson"
+  },
+  "hobbies": [
+    "Photography",
+    "Hiking & Outdoor Adventures", 
+    "Open Source Contributing",
+    "Reading Tech Blogs",
+    "Playing Guitar",
+    "Cooking"
+  ],
+  "seo": {
+    "title": "Alex Johnson - Full Stack Developer",
+    "description": "Full Stack Developer specializing in React, TypeScript, and Node.js. Building beautiful, scalable web applications.",
+    "keywords": ["Full Stack Developer", "React Developer", "TypeScript", "Web Development", "Frontend", "Backend"]
+  }
+}

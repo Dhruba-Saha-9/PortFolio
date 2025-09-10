@@ -1,0 +1,135 @@
+{
+  "education": [
+    {
+      "id": "university",
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-15",
+      "gpa": "3.8/4.0",
+      "description": "Focused on software engineering, algorithms, and web development. Active member of the Computer Science Student Association.",
+      "coursework": [
+        "Data Structures and Algorithms",
+        "Database Systems",
+        "Web Development",
+        "Software Engineering",
+        "Computer Networks",
+        "Machine Learning"
+      ],
+      "achievements": [
+        "Dean's List for 4 consecutive semesters",
+        "President of Computer Science Student Association",
+        "Winner of University Hackathon 2020"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "id": "senior-developer",
+      "company": "TechCorp Solutions",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "current": true,
+      "location": "San Francisco, CA",
+      "description": "Lead development of enterprise web applications serving 100K+ users. Mentor junior developers and drive technical decisions.",
+      "achievements": [
+        "Led migration from legacy PHP to React/Node.js stack, improving performance by 60%",
+        "Architected microservices infrastructure reducing deployment time by 80%",
+        "Mentored 5 junior developers, with 3 receiving promotions",
+        "Implemented automated testing reducing bugs by 45%"
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": "frontend-developer",
+      "company": "StartupXYZ",
+      "position": "Frontend Developer",
+      "startDate": "2021-07-01",
+      "endDate": "2022-05-31",
+      "current": false,
+      "location": "San Francisco, CA",
+      "description": "Developed responsive web applications and improved user experience for a fast-growing startup.",
+      "achievements": [
+        "Built responsive web app increasing mobile conversions by 35%",
+        "Implemented design system reducing development time by 50%",
+        "Optimized application performance achieving 95+ Lighthouse scores",
+        "Collaborated with designers to improve user experience"
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "SCSS",
+        "Redux",
+        "REST APIs",
+        "Git"
+      ]
+    },
+    {
+      "id": "intern-developer",
+      "company": "Web Agency Pro",
+      "position": "Web Development Intern",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-31",
+      "current": false,
+      "location": "Berkeley, CA",
+      "description": "Assisted in developing client websites and learned modern web development practices.",
+      "achievements": [
+        "Developed 5 client websites using WordPress and custom HTML/CSS",
+        "Learned agile development methodologies",
+        "Improved website loading speeds by 40% through optimization",
+        "Gained experience with version control and team collaboration"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "WordPress",
+        "PHP",
+        "Git"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "aws-certified",
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023-03-15",
+      "credentialId": "AWS-CSA-123456",
+      "url": "https://aws.amazon.com/certification/"
+    },
+    {
+      "id": "react-certified",
+      "name": "React Developer Certification",
+      "issuer": "Meta",
+      "date": "2022-11-20",
+      "credentialId": "META-REACT-789012",
+      "url": "https://developers.facebook.com/docs/development/"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "hackathon-winner",
+      "title": "TechCrunch Disrupt Hackathon Winner",
+      "date": "2023-04-22",
+      "description": "Won first place for developing an AI-powered productivity app in 48 hours.",
+      "url": "https://techcrunch.com/events/disrupt-sf-2023/"
+    },
+    {
+      "id": "open-source",
+      "title": "Open Source Contributor",
+      "date": "2021-01-01",
+      "description": "500+ GitHub stars across personal projects. Regular contributor to React ecosystem libraries.",
+      "url": "https://github.com/alexjohnson"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "featured": [
+    {
+      "id": "ecommerce-platform",
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform built with React, Node.js, and PostgreSQL",
+      "shortDescription": "Modern e-commerce solution with advanced features",
+      "image": "/images/projects/ecommerce-hero.jpg",
+      "images": [
+        "/images/projects/ecommerce-1.jpg",
+        "/images/projects/ecommerce-2.jpg",
+        "/images/projects/ecommerce-3.jpg"
+      ],
+      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "Stripe", "AWS"],
+      "tags": ["Full Stack", "E-Commerce", "React"],
+      "demoUrl": "https://ecommerce-demo.alexjohnson.dev",
+      "githubUrl": "https://github.com/alexjohnson/ecommerce-platform",
+      "featured": true,
+      "status": "completed",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-15",
+      "challenges": [
+        "Implementing real-time inventory management",
+        "Optimizing database queries for large product catalogs",
+        "Building a secure payment processing system"
+      ],
+      "learnings": [
+        "Advanced React patterns for state management",
+        "Database optimization techniques",
+        "Payment gateway integration best practices"
+      ],
+      "features": [
+        "User authentication and authorization",
+        "Product catalog with advanced filtering",
+        "Shopping cart and checkout process",
+        "Payment processing with Stripe",
+        "Order management system",
+        "Admin dashboard",
+        "Real-time inventory tracking"
+      ]
+    },
+    {
+      "id": "task-management-app",
+      "title": "Collaborative Task Manager",
+      "description": "A real-time collaborative task management application with team features",
+      "shortDescription": "Team collaboration made simple and efficient",
+      "image": "/images/projects/taskmanager-hero.jpg",
+      "images": [
+        "/images/projects/taskmanager-1.jpg",
+        "/images/projects/taskmanager-2.jpg",
+        "/images/projects/taskmanager-3.jpg"
+      ],
+      "technologies": ["React", "Socket.io", "Express.js", "MongoDB", "JWT"],
+      "tags": ["Full Stack", "Real-time", "Collaboration"],
+      "demoUrl": "https://taskmanager-demo.alexjohnson.dev",
+      "githubUrl": "https://github.com/alexjohnson/task-manager",
+      "featured": true,
+      "status": "completed",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-30",
+      "challenges": [
+        "Implementing real-time updates across multiple clients",
+        "Managing complex state synchronization",
+        "Building an intuitive drag-and-drop interface"
+      ],
+      "learnings": [
+        "WebSocket implementation and optimization",
+        "Real-time state management patterns",
+        "Advanced UI/UX design principles"
+      ],
+      "features": [
+        "Real-time collaborative editing",
+        "Drag and drop task management",
+        "Team member management",
+        "Project organization",
+        "Due date tracking",
+        "File attachments",
+        "Activity timeline"
+      ]
+    }
+  ],
+  "other": [
+    {
+      "id": "weather-dashboard",
+      "title": "Weather Dashboard",
+      "description": "A beautiful weather dashboard with interactive maps and forecasts",
+      "shortDescription": "Beautiful weather forecasting with interactive maps",
+      "image": "/images/projects/weather-hero.jpg",
+      "images": [
+        "/images/projects/weather-1.jpg",
+        "/images/projects/weather-2.jpg"
+      ],
+      "technologies": ["React", "TypeScript", "OpenWeather API", "Mapbox"],
+      "tags": ["Frontend", "API Integration", "React"],
+      "demoUrl": "https://weather-dashboard.alexjohnson.dev",
+      "githubUrl": "https://github.com/alexjohnson/weather-dashboard",
+      "featured": false,
+      "status": "completed",
+      "startDate": "2023-01-15",
+      "endDate": "2023-02-28",
+      "challenges": [
+        "Handling multiple API data sources",
+        "Creating responsive map visualizations",
+        "Implementing accurate geolocation features"
+      ],
+      "learnings": [
+        "Third-party API integration patterns",
+        "Map-based data visualization",
+        "Progressive Web App features"
+      ],
+      "features": [
+        "Current weather conditions",
+        "7-day weather forecast",
+        "Interactive weather maps",
+        "Location-based weather",
+        "Weather alerts and notifications",
+        "Historical weather data"
+      ]
+    },
+    {
+      "id": "portfolio-website",
+      "title": "Personal Portfolio",
+      "description": "This responsive portfolio website built with React and Framer Motion",
+      "shortDescription": "Modern portfolio showcasing my work and skills",
+      "image": "/images/projects/portfolio-hero.jpg",
+      "images": [
+        "/images/projects/portfolio-1.jpg",
+        "/images/projects/portfolio-2.jpg"
+      ],
+      "technologies": ["React", "TypeScript", "Framer Motion", "Tailwind CSS"],
+      "tags": ["Frontend", "Portfolio", "React"],
+      "demoUrl": "https://alexjohnson.dev",
+      "githubUrl": "https://github.com/alexjohnson/portfolio",
+      "featured": false,
+      "status": "completed",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-15",
+      "challenges": [
+        "Creating smooth animations and transitions",
+        "Optimizing for performance and SEO",
+        "Building a responsive design system"
+      ],
+      "learnings": [
+        "Advanced Framer Motion animations",
+        "SEO optimization techniques",
+        "Design system architecture"
+      ],
+      "features": [
+        "Responsive design",
+        "Dark/light mode toggle",
+        "Smooth animations",
+        "Contact form with validation",
+        "Project showcase",
+        "SEO optimized"
+      ]
+    }
+  ]
+}

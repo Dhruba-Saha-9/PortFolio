@@ -1,0 +1,168 @@
+{
+  "technical": {
+    "frontend": [
+      {
+        "name": "React",
+        "level": 95,
+        "category": "Frontend Framework",
+        "experience": "4 years"
+      },
+      {
+        "name": "TypeScript",
+        "level": 90,
+        "category": "Language",
+        "experience": "3 years"
+      },
+      {
+        "name": "JavaScript",
+        "level": 95,
+        "category": "Language",
+        "experience": "5 years"
+      },
+      {
+        "name": "HTML5",
+        "level": 98,
+        "category": "Markup",
+        "experience": "6 years"
+      },
+      {
+        "name": "CSS3",
+        "level": 95,
+        "category": "Styling",
+        "experience": "6 years"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": 90,
+        "category": "CSS Framework",
+        "experience": "2 years"
+      },
+      {
+        "name": "Next.js",
+        "level": 85,
+        "category": "React Framework",
+        "experience": "2 years"
+      },
+      {
+        "name": "Vue.js",
+        "level": 75,
+        "category": "Frontend Framework",
+        "experience": "1 year"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "level": 90,
+        "category": "Runtime",
+        "experience": "4 years"
+      },
+      {
+        "name": "Express.js",
+        "level": 90,
+        "category": "Web Framework",
+        "experience": "4 years"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 85,
+        "category": "Database",
+        "experience": "3 years"
+      },
+      {
+        "name": "MongoDB",
+        "level": 80,
+        "category": "Database",
+        "experience": "2 years"
+      },
+      {
+        "name": "Python",
+        "level": 75,
+        "category": "Language",
+        "experience": "2 years"
+      },
+      {
+        "name": "GraphQL",
+        "level": 80,
+        "category": "Query Language",
+        "experience": "2 years"
+      },
+      {
+        "name": "REST APIs",
+        "level": 95,
+        "category": "API Design",
+        "experience": "4 years"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git",
+        "level": 95,
+        "category": "Version Control",
+        "experience": "5 years"
+      },
+      {
+        "name": "Docker",
+        "level": 85,
+        "category": "Containerization",
+        "experience": "2 years"
+      },
+      {
+        "name": "AWS",
+        "level": 80,
+        "category": "Cloud Platform",
+        "experience": "2 years"
+      },
+      {
+        "name": "Figma",
+        "level": 85,
+        "category": "Design Tool",
+        "experience": "3 years"
+      },
+      {
+        "name": "Jest",
+        "level": 80,
+        "category": "Testing",
+        "experience": "2 years"
+      },
+      {
+        "name": "Webpack",
+        "level": 75,
+        "category": "Build Tool",
+        "experience": "2 years"
+      },
+      {
+        "name": "VS Code",
+        "level": 95,
+        "category": "IDE",
+        "experience": "5 years"
+      }
+    ]
+  },
+  "soft": [
+    {
+      "name": "Problem Solving",
+      "description": "Analytical thinking and creative solutions to complex technical challenges"
+    },
+    {
+      "name": "Team Leadership",
+      "description": "Experience leading development teams and mentoring junior developers"
+    },
+    {
+      "name": "Communication",
+      "description": "Clear technical communication with both technical and non-technical stakeholders"
+    },
+    {
+      "name": "Project Management",
+      "description": "Agile methodologies, sprint planning, and delivering projects on time"
+    },
+    {
+      "name": "User Experience",
+      "description": "Understanding user needs and translating them into intuitive interfaces"
+    },
+    {
+      "name": "Continuous Learning",
+      "description": "Staying updated with latest technologies and best practices"
+    }
+  ]
+}
