@@ -2,118 +2,76 @@
   "education": [
     {
       "id": "university",
-      "institution": "University of California, Berkeley",
-      "degree": "Bachelor of Science in Computer Science",
-      "startDate": "2017-08-01",
-      "endDate": "2021-05-15",
-      "gpa": "3.8/4.0",
-      "description": "Focused on software engineering, algorithms, and web development. Active member of the Computer Science Student Association.",
+      "institution": "Satyabama Institute of Science and Technology",
+      "degree": "B.Tech in Robotics",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-15",
+      "gpa": "7.68/10.0",
+      "description": "Pursuing B.Tech in Robotics with focus on AI/ML, web development, and intelligent systems. Strong academic performance with hands-on project experience.",
       "coursework": [
         "Data Structures and Algorithms",
-        "Database Systems",
+        "Database Management Systems",
         "Web Development",
-        "Software Engineering",
-        "Computer Networks",
-        "Machine Learning"
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Robotics and Automation"
       ],
       "achievements": [
-        "Dean's List for 4 consecutive semesters",
-        "President of Computer Science Student Association",
-        "Winner of University Hackathon 2020"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "id": "senior-developer",
-      "company": "TechCorp Solutions",
-      "position": "Senior Full Stack Developer",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "current": true,
-      "location": "San Francisco, CA",
-      "description": "Lead development of enterprise web applications serving 100K+ users. Mentor junior developers and drive technical decisions.",
-      "achievements": [
-        "Led migration from legacy PHP to React/Node.js stack, improving performance by 60%",
-        "Architected microservices infrastructure reducing deployment time by 80%",
-        "Mentored 5 junior developers, with 3 receiving promotions",
-        "Implemented automated testing reducing bugs by 45%"
+        "CGPA: 7.68/10.0",
+        "Multiple project implementations in AI/ML",
+        "Active participation in technical programs"
       ],
-      "technologies": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "Docker",
-        "Kubernetes"
-      ]
+      "location": "Chennai, India"
     },
     {
-      "id": "frontend-developer",
-      "company": "StartupXYZ",
-      "position": "Frontend Developer",
-      "startDate": "2021-07-01",
-      "endDate": "2022-05-31",
-      "current": false,
-      "location": "San Francisco, CA",
-      "description": "Developed responsive web applications and improved user experience for a fast-growing startup.",
-      "achievements": [
-        "Built responsive web app increasing mobile conversions by 35%",
-        "Implemented design system reducing development time by 50%",
-        "Optimized application performance achieving 95+ Lighthouse scores",
-        "Collaborated with designers to improve user experience"
-      ],
-      "technologies": [
-        "React",
-        "JavaScript",
-        "SCSS",
-        "Redux",
-        "REST APIs",
-        "Git"
-      ]
+      "id": "class12",
+      "institution": "Sri Krishna Mission School",
+      "degree": "12th AISSCE | CBSE",
+      "startDate": "2021-04-01",
+      "endDate": "2022-03-31",
+      "gpa": "76%",
+      "description": "Completed higher secondary education with focus on Science stream.",
+      "location": "Agartala, India"
     },
     {
-      "id": "intern-developer",
-      "company": "Web Agency Pro",
-      "position": "Web Development Intern",
-      "startDate": "2020-06-01",
-      "endDate": "2020-08-31",
-      "current": false,
-      "location": "Berkeley, CA",
-      "description": "Assisted in developing client websites and learned modern web development practices.",
-      "achievements": [
-        "Developed 5 client websites using WordPress and custom HTML/CSS",
-        "Learned agile development methodologies",
-        "Improved website loading speeds by 40% through optimization",
-        "Gained experience with version control and team collaboration"
-      ],
-      "technologies": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "WordPress",
-        "PHP",
-        "Git"
-      ]
+      "id": "class10",
+      "institution": "Sri Krishna Mission School", 
+      "degree": "10th SSC | CBSE",
+      "startDate": "2019-04-01",
+      "endDate": "2020-03-31",
+      "gpa": "87%",
+      "description": "Completed secondary education with excellent academic performance.",
+      "location": "Agartala, India"
     }
   ],
+  "work": [],
   "certifications": [
     {
-      "id": "aws-certified",
-      "name": "AWS Certified Solutions Architect",
-      "issuer": "Amazon Web Services",
-      "date": "2023-03-15",
-      "credentialId": "AWS-CSA-123456",
-      "url": "https://aws.amazon.com/certification/"
+      "id": "mit-agartala",
+      "name": "MIT Agartala Summer Internship Program",
+      "issuer": "MIT Agartala",
+      "date": "2024-07-15",
+      "credentialId": "MIT-AI-2024",
+      "url": "#",
+      "description": "Internship completion certificate on topic: Introduction to Microcontrollers and Sensors for Applications of AI."
     },
     {
-      "id": "react-certified",
-      "name": "React Developer Certification",
-      "issuer": "Meta",
-      "date": "2022-11-20",
-      "credentialId": "META-REACT-789012",
-      "url": "https://developers.facebook.com/docs/development/"
+      "id": "nptel-data-analytics",
+      "name": "Data Analytics with Python",
+      "issuer": "NPTEL",
+      "date": "2024-04-20",
+      "credentialId": "NPTEL-PYTHON-2024",
+      "url": "#",
+      "description": "Completed an online certification covering data preprocessing, visualization, statistical analysis, and machine learning using Python libraries."
+    },
+    {
+      "id": "geospatial-tech",
+      "name": "Geospatial and Geo-Analytics Technologies",
+      "issuer": "SIST",
+      "date": "2024-02-10",
+      "credentialId": "SIST-GEO-2024",
+      "url": "#",
+      "description": "Internship at SIST on the fundamentals of geospatial technology and its applications, focusing on data analysis, mapping, and spatial decision-making processes."
     }
   ],
   "achievements": [

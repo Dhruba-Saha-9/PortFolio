@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Twitter, Mail, Heart } from 'lucide-react';
+import { Github, Linkedin, Code, Mail, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import siteData from '@/data/site.json';
@@ -7,7 +7,7 @@ import siteData from '@/data/site.json';
 const socialLinks = [
   { icon: Github, href: siteData.social.github, label: 'GitHub' },
   { icon: Linkedin, href: siteData.social.linkedin, label: 'LinkedIn' },
-  { icon: Twitter, href: siteData.social.twitter, label: 'Twitter' },
+  { icon: Code, href: siteData.social.leetcode, label: 'LeetCode' },
   { icon: Mail, href: `mailto:${siteData.personal.email}`, label: 'Email' },
 ];
 

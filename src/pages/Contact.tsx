@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, Github, Linkedin, Code } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
@@ -33,14 +33,14 @@ const contactMethods = [
     title: 'Location',
     value: siteData.personal.location,
     href: '#',
-    description: 'Based in San Francisco, available for remote work worldwide'
+    description: 'Based in Chennai, India, available for remote work worldwide'
   }
 ];
 
 const socialLinks = [
   { icon: Github, href: siteData.social.github, label: 'GitHub' },
   { icon: Linkedin, href: siteData.social.linkedin, label: 'LinkedIn' },
-  { icon: Twitter, href: siteData.social.twitter, label: 'Twitter' },
+  { icon: Code, href: siteData.social.leetcode, label: 'LeetCode' },
 ];
 
 export default function Contact() {
@@ -116,8 +116,8 @@ export default function Contact() {
   return (
     <>
       <SEO 
-        title="Contact - Alex Johnson"
-        description="Get in touch with Alex Johnson for collaboration opportunities, project inquiries, or just to say hello."
+        title="Contact - Dhruba Saha"
+        description="Get in touch with Dhruba Saha for collaboration opportunities, project inquiries, or just to say hello."
       />
       
       <div className="min-h-screen bg-background">

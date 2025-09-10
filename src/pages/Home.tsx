@@ -65,9 +65,11 @@ export default function Home() {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-primary p-1"
               >
-                <div className="w-full h-full rounded-full bg-background flex items-center justify-center text-4xl font-bold text-primary">
-                  {siteData.personal.name.split(' ').map(name => name[0]).join('')}
-                </div>
+                <img 
+                  src={siteData.personal.photo} 
+                  alt={siteData.personal.name}
+                  className="w-full h-full rounded-full object-cover"
+                />
               </motion.div>
               
               <Badge variant="gradient" size="lg" className="mb-6">
@@ -135,7 +137,7 @@ export default function Home() {
               {[
                 { icon: Github, href: siteData.social.github, label: 'GitHub' },
                 { icon: Linkedin, href: siteData.social.linkedin, label: 'LinkedIn' },
-                { icon: ExternalLink, href: siteData.personal.website, label: 'Website' },
+                { icon: ExternalLink, href: siteData.social.leetcode, label: 'LeetCode' },
               ].map((social, index) => (
                 <motion.a
                   key={social.label}
@@ -237,20 +239,20 @@ export default function Home() {
                   </h3>
                   <div className="grid grid-cols-2 gap-6">
                     <div className="text-center">
-                      <div className="text-2xl font-bold text-primary">5+</div>
+                      <div className="text-2xl font-bold text-primary">3+</div>
                       <div className="text-sm text-muted-foreground">Years Experience</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-2xl font-bold text-primary">50+</div>
+                      <div className="text-2xl font-bold text-primary">10+</div>
                       <div className="text-sm text-muted-foreground">Projects Completed</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-2xl font-bold text-primary">100K+</div>
-                      <div className="text-sm text-muted-foreground">Users Impacted</div>
+                      <div className="text-2xl font-bold text-primary">7.68</div>
+                      <div className="text-sm text-muted-foreground">CGPA</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-2xl font-bold text-primary">500+</div>
-                      <div className="text-sm text-muted-foreground">GitHub Stars</div>
+                      <div className="text-2xl font-bold text-primary">3</div>
+                      <div className="text-sm text-muted-foreground">Certifications</div>
                     </div>
                   </div>
                 </div>

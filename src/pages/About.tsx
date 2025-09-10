@@ -9,12 +9,12 @@ import siteData from '@/data/site.json';
 import skillsData from '@/data/skills.json';
 
 const hobbyIcons = {
-  'Photography': Camera,
-  'Hiking & Outdoor Adventures': Mountain,
+  'Machine Learning Research': Code,
   'Open Source Contributing': Code,
-  'Reading Tech Blogs': BookOpen,
-  'Playing Guitar': Guitar,
-  'Cooking': ChefHat,
+  'Competitive Programming': Code,
+  'Reading Tech Papers': BookOpen,
+  'Problem Solving': Code,
+  'AI/ML Projects': Code,
 };
 
 const SkillCard = ({ skill, index, category }: { skill: any; index: number; category: string }) => {
@@ -69,16 +69,16 @@ export default function About() {
   return (
     <>
       <SEO 
-        title="About - Alex Johnson"
-        description="Learn more about Alex Johnson, a passionate full-stack developer with expertise in React, TypeScript, and modern web technologies."
+        title="About - Dhruba Saha"
+        description="Learn more about Dhruba Saha, a passionate full-stack developer with expertise in Python, React, AI/ML, and modern web technologies."
       />
       
       <div className="min-h-screen bg-background">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
           <SectionHeader
             subtitle="Get to know me"
-            title="About Alex"
-            description="Passionate developer, problem solver, and continuous learner with a love for creating beautiful digital experiences."
+            title="About Dhruba"
+            description="Passionate developer, problem solver, and continuous learner with expertise in AI/ML and modern web technologies."
             centered
           />
 

@@ -2,72 +2,60 @@
   "technical": {
     "frontend": [
       {
-        "name": "React",
-        "level": 95,
+        "name": "React.js",
+        "level": 85,
         "category": "Frontend Framework",
-        "experience": "4 years"
-      },
-      {
-        "name": "TypeScript",
-        "level": 90,
-        "category": "Language",
-        "experience": "3 years"
+        "experience": "2 years"
       },
       {
         "name": "JavaScript",
-        "level": 95,
+        "level": 80,
         "category": "Language",
-        "experience": "5 years"
+        "experience": "2 years"
       },
       {
         "name": "HTML5",
-        "level": 98,
+        "level": 90,
         "category": "Markup",
-        "experience": "6 years"
+        "experience": "3 years"
       },
       {
         "name": "CSS3",
-        "level": 95,
-        "category": "Styling",
-        "experience": "6 years"
-      },
-      {
-        "name": "Tailwind CSS",
-        "level": 90,
-        "category": "CSS Framework",
-        "experience": "2 years"
-      },
-      {
-        "name": "Next.js",
         "level": 85,
-        "category": "React Framework",
-        "experience": "2 years"
+        "category": "Styling",
+        "experience": "3 years"
       },
       {
-        "name": "Vue.js",
-        "level": 75,
-        "category": "Frontend Framework",
-        "experience": "1 year"
+        "name": "Node.js",
+        "level": 80,
+        "category": "Runtime",
+        "experience": "2 years"
       }
     ],
     "backend": [
       {
-        "name": "Node.js",
+        "name": "Python",
+        "level": 95,
+        "category": "Language",
+        "experience": "3 years"
+      },
+      {
+        "name": "Flask",
         "level": 90,
-        "category": "Runtime",
-        "experience": "4 years"
+        "category": "Web Framework",
+        "experience": "2 years"
       },
       {
         "name": "Express.js",
-        "level": 90,
+        "level": 80,
         "category": "Web Framework",
-        "experience": "4 years"
+        "experience": "2 years"
       },
       {
-        "name": "PostgreSQL",
+        "name": "MySQL",
         "level": 85,
         "category": "Database",
-        "experience": "3 years"
+        "experience": "2 years"
       },
       {
         "name": "MongoDB",
@@ -76,66 +64,48 @@
         "experience": "2 years"
       },
       {
-        "name": "Python",
+        "name": "C/C++",
+        "level": 85,
+        "category": "Language",
+        "experience": "3 years"
+      },
+      {
+        "name": "Java",
         "level": 75,
         "category": "Language",
         "experience": "2 years"
-      },
-      {
-        "name": "GraphQL",
-        "level": 80,
-        "category": "Query Language",
-        "experience": "2 years"
-      },
-      {
-        "name": "REST APIs",
-        "level": 95,
-        "category": "API Design",
-        "experience": "4 years"
       }
     ],
     "tools": [
       {
-        "name": "Git",
-        "level": 95,
-        "category": "Version Control",
-        "experience": "5 years"
-      },
-      {
-        "name": "Docker",
+        "name": "TensorFlow",
         "level": 85,
-        "category": "Containerization",
+        "category": "ML Framework",
         "experience": "2 years"
       },
       {
-        "name": "AWS",
+        "name": "scikit-learn",
         "level": 80,
-        "category": "Cloud Platform",
+        "category": "ML Library",
         "experience": "2 years"
       },
       {
-        "name": "Figma",
-        "level": 85,
-        "category": "Design Tool",
+        "name": "Git",
+        "level": 90,
+        "category": "Version Control",
         "experience": "3 years"
       },
       {
-        "name": "Jest",
+        "name": "Data Structures & Algorithms",
+        "level": 85,
+        "category": "Computer Science",
+        "experience": "3 years"
+      },
+      {
+        "name": "Machine Learning",
         "level": 80,
-        "category": "Testing",
+        "category": "AI/ML",
         "experience": "2 years"
-      },
-      {
-        "name": "Webpack",
-        "level": 75,
-        "category": "Build Tool",
-        "experience": "2 years"
-      },
-      {
-        "name": "VS Code",
-        "level": 95,
-        "category": "IDE",
-        "experience": "5 years"
       }
     ]
   },

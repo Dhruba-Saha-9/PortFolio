@@ -1,157 +1,168 @@
 {
   "featured": [
     {
-      "id": "ecommerce-platform",
-      "title": "E-Commerce Platform",
-      "description": "A full-featured e-commerce platform built with React, Node.js, and PostgreSQL",
-      "shortDescription": "Modern e-commerce solution with advanced features",
-      "image": "/images/projects/ecommerce-hero.jpg",
+      "id": "smart-farming-ai",
+      "title": "Intelligence: A Multimodal AI Platform for Smart Farming",
+      "description": "An AI-driven smart farming platform using multimodal data analysis, machine learning, and real-time insights for crop monitoring, disease detection, weather forecasting, and yield prediction.",
+      "shortDescription": "AI-powered smart farming solution with multimodal intelligence",
+      "image": "/images/projects/smart-farming-hero.jpg",
       "images": [
-        "/images/projects/ecommerce-1.jpg",
-        "/images/projects/ecommerce-2.jpg",
-        "/images/projects/ecommerce-3.jpg"
+        "/images/projects/smart-farming-1.jpg",
+        "/images/projects/smart-farming-2.jpg",
+        "/images/projects/smart-farming-3.jpg"
       ],
-      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "Stripe", "AWS"],
-      "tags": ["Full Stack", "E-Commerce", "React"],
-      "demoUrl": "https://ecommerce-demo.alexjohnson.dev",
-      "githubUrl": "https://github.com/alexjohnson/ecommerce-platform",
+      "technologies": ["MongoDB", "Express.js", "React.js", "Node.js", "Python", "AI/ML", "TensorFlow", "scikit-learn"],
+      "tags": ["Full Stack", "AI/ML", "Agriculture", "IoT"],
+      "demoUrl": "#",
+      "githubUrl": "#",
       "featured": true,
       "status": "completed",
-      "startDate": "2023-06-01",
-      "endDate": "2023-09-15",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-30",
       "challenges": [
-        "Implementing real-time inventory management",
-        "Optimizing database queries for large product catalogs",
-        "Building a secure payment processing system"
+        "Building an AI-driven farming assistant that uses image and text inputs for crop advice, disease detection, weather forecasting and yield prediction",
+        "Integrating multimodal AI capabilities for comprehensive farm management",
+        "Developing real-time insights and recommendations system"
       ],
       "learnings": [
-        "Advanced React patterns for state management",
-        "Database optimization techniques",
-        "Payment gateway integration best practices"
+        "Multimodal AI implementation and optimization",
+        "Agricultural data analysis and processing",
+        "Real-time IoT data integration patterns",
+        "Machine learning model deployment for production"
       ],
       "features": [
-        "User authentication and authorization",
-        "Product catalog with advanced filtering",
-        "Shopping cart and checkout process",
-        "Payment processing with Stripe",
-        "Order management system",
-        "Admin dashboard",
-        "Real-time inventory tracking"
+        "AI-powered crop monitoring and analysis",
+        "Disease detection through image processing",
+        "Weather forecasting and climate analysis",
+        "Yield prediction using ML algorithms",
+        "Real-time farming insights and recommendations",
+        "Multimodal data processing (image + text)",
+        "Intuitive farmer-friendly interface",
+        "Community platform for knowledge sharing"
       ]
     },
     {
-      "id": "task-management-app",
-      "title": "Collaborative Task Manager",
-      "description": "A real-time collaborative task management application with team features",
-      "shortDescription": "Team collaboration made simple and efficient",
-      "image": "/images/projects/taskmanager-hero.jpg",
+      "id": "event-management-system",
+      "title": "Event Management System",
+      "description": "A comprehensive event management platform that allows administrators to create, update, and delete events while managing hall bookings and capacities. Students can browse available events, register seamlessly, and receive a unique QR code for entry.",
+      "shortDescription": "Complete event management solution with QR-based entry system",
+      "image": "/images/projects/event-management-hero.jpg", 
       "images": [
-        "/images/projects/taskmanager-1.jpg",
-        "/images/projects/taskmanager-2.jpg",
-        "/images/projects/taskmanager-3.jpg"
+        "/images/projects/event-management-1.jpg",
+        "/images/projects/event-management-2.jpg",
+        "/images/projects/event-management-3.jpg"
       ],
-      "technologies": ["React", "Socket.io", "Express.js", "MongoDB", "JWT"],
-      "tags": ["Full Stack", "Real-time", "Collaboration"],
-      "demoUrl": "https://taskmanager-demo.alexjohnson.dev",
-      "githubUrl": "https://github.com/alexjohnson/task-manager",
+      "technologies": ["Python", "Flask", "MySQL", "HTML", "CSS"],
+      "tags": ["Backend", "Database", "Web Development"],
+      "demoUrl": "#",
+      "githubUrl": "#",
       "featured": true,
       "status": "completed",
-      "startDate": "2023-03-01",
-      "endDate": "2023-05-30",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-15",
       "challenges": [
-        "Implementing real-time updates across multiple clients",
-        "Managing complex state synchronization",
-        "Building an intuitive drag-and-drop interface"
+        "Developing a comprehensive event management system that allows administrators to create, update, and delete events while managing hall bookings and capacities",
+        "Implementing QR code generation and validation system",
+        "Building efficient database schema for event and user management"
       ],
       "learnings": [
-        "WebSocket implementation and optimization",
-        "Real-time state management patterns",
-        "Advanced UI/UX design principles"
+        "Full-stack web development with Flask framework",
+        "Database design and optimization techniques",
+        "QR code integration and validation systems",
+        "User authentication and authorization patterns"
       ],
       "features": [
-        "Real-time collaborative editing",
-        "Drag and drop task management",
-        "Team member management",
-        "Project organization",
-        "Due date tracking",
-        "File attachments",
-        "Activity timeline"
+        "Admin dashboard for event creation and management",
+        "Hall booking and capacity management",
+        "Student registration system",
+        "QR code generation for event entry",
+        "Real-time event updates and notifications",
+        "Seamless event browsing interface",
+        "Automated booking confirmation system",
+        "Location-based event navigation"
       ]
     }
   ],
   "other": [
     {
-      "id": "weather-dashboard",
-      "title": "Weather Dashboard",
-      "description": "A beautiful weather dashboard with interactive maps and forecasts",
-      "shortDescription": "Beautiful weather forecasting with interactive maps",
-      "image": "/images/projects/weather-hero.jpg",
+      "id": "financial-data-management",
+      "title": "Financial Data Management Platform",
+      "description": "A comprehensive financial data management system to create and manage customer accounts, track financial transactions, and securely store input data with robust backend infrastructure.",
+      "shortDescription": "Secure financial data management and transaction tracking system",
+      "image": "/images/projects/financial-hero.jpg",
       "images": [
-        "/images/projects/weather-1.jpg",
-        "/images/projects/weather-2.jpg"
+        "/images/projects/financial-1.jpg",
+        "/images/projects/financial-2.jpg"
       ],
-      "technologies": ["React", "TypeScript", "OpenWeather API", "Mapbox"],
-      "tags": ["Frontend", "API Integration", "React"],
-      "demoUrl": "https://weather-dashboard.alexjohnson.dev",
-      "githubUrl": "https://github.com/alexjohnson/weather-dashboard",
+      "technologies": ["Python", "MySQL", "Flask", "HTML", "CSS"],
+      "tags": ["Backend", "Database", "Finance"],
+      "demoUrl": "#",
+      "githubUrl": "#",
       "featured": false,
       "status": "completed",
-      "startDate": "2023-01-15",
-      "endDate": "2023-02-28",
+      "startDate": "2023-02-01",
+      "endDate": "2023-07-30",
       "challenges": [
-        "Handling multiple API data sources",
-        "Creating responsive map visualizations",
-        "Implementing accurate geolocation features"
+        "Developing a bank management system to create and manage customer accounts, track financial transactions, and securely store input data",
+        "Implementing secure data handling for financial information",
+        "Building efficient database queries for transaction processing"
       ],
       "learnings": [
-        "Third-party API integration patterns",
-        "Map-based data visualization",
-        "Progressive Web App features"
+        "Financial data security best practices",
+        "Database transaction management",
+        "Secure authentication and authorization systems",
+        "Data encryption and protection techniques"
       ],
       "features": [
-        "Current weather conditions",
-        "7-day weather forecast",
-        "Interactive weather maps",
-        "Location-based weather",
-        "Weather alerts and notifications",
-        "Historical weather data"
+        "Customer account creation and management",
+        "Secure financial transaction tracking",
+        "Real-time balance updates",
+        "Transaction history and reporting",
+        "Data encryption and security measures",
+        "Admin dashboard for account monitoring",
+        "Automated transaction validation",
+        "Secure data storage and backup"
       ]
     },
     {
       "id": "portfolio-website",
-      "title": "Personal Portfolio",
-      "description": "This responsive portfolio website built with React and Framer Motion",
-      "shortDescription": "Modern portfolio showcasing my work and skills",
+      "title": "Personal Portfolio Website",
+      "description": "This responsive portfolio website built with React, TypeScript, and modern web technologies to showcase my projects, skills, and professional journey.",
+      "shortDescription": "Modern portfolio showcasing my work and technical expertise",
       "image": "/images/projects/portfolio-hero.jpg",
       "images": [
         "/images/projects/portfolio-1.jpg",
         "/images/projects/portfolio-2.jpg"
       ],
-      "technologies": ["React", "TypeScript", "Framer Motion", "Tailwind CSS"],
+      "technologies": ["React", "TypeScript", "Framer Motion", "Tailwind CSS", "Vite"],
       "tags": ["Frontend", "Portfolio", "React"],
-      "demoUrl": "https://alexjohnson.dev",
-      "githubUrl": "https://github.com/alexjohnson/portfolio",
+      "demoUrl": "#",
+      "githubUrl": "#",
       "featured": false,
       "status": "completed",
-      "startDate": "2023-10-01",
-      "endDate": "2023-11-15",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-10",
       "challenges": [
-        "Creating smooth animations and transitions",
+        "Creating smooth animations and modern UI/UX",
         "Optimizing for performance and SEO",
-        "Building a responsive design system"
+        "Building a responsive design system",
+        "Implementing dark/light mode functionality"
       ],
       "learnings": [
         "Advanced Framer Motion animations",
+        "Modern React development patterns",
         "SEO optimization techniques",
-        "Design system architecture"
+        "Responsive design principles"
       ],
       "features": [
-        "Responsive design",
-        "Dark/light mode toggle",
-        "Smooth animations",
+        "Fully responsive design",
+        "Dark/light mode toggle with persistence",
+        "Smooth animations and transitions",
         "Contact form with validation",
-        "Project showcase",
-        "SEO optimized"
+        "Project showcase with filtering",
+        "SEO optimized with meta tags",
+        "Mobile-first approach",
+        "Fast loading and performance optimized"
       ]
     }
   ]

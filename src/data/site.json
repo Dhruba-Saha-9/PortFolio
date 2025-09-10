@@ -1,42 +1,42 @@
 {
   "personal": {
-    "name": "Alex Johnson",
-    "title": "Full Stack Developer",
-    "shortBio": "Passionate developer crafting beautiful web experiences with modern technologies",
-    "email": "alex.johnson@example.com",
-    "phone": "+1 (555) 123-4567",
-    "location": "San Francisco, CA",
-    "website": "https://alexjohnson.dev",
-    "resumeUrl": "/resume/my_resume.pdf"
+    "name": "Dhruba Saha",
+    "title": "Full Stack Developer & AI Enthusiast",
+    "shortBio": "Adaptable and results-oriented developer with expertise in modern web technologies and AI/ML",
+    "email": "dhrubasaha204@gmail.com",
+    "phone": "+91 764 1014694",
+    "location": "Chennai, India",
+    "website": "https://dhrubasaha.dev",
+    "resumeUrl": "/resume/my_resume.pdf",
+    "photo": "/lovable-uploads/7a2a52a1-ff69-43b0-ba6b-51db9daa9dc8.png"
   },
   "bio": {
-    "longDescription": "I'm a passionate full-stack developer with 5+ years of experience building scalable web applications. I specialize in React, TypeScript, and Node.js, with a keen eye for user experience and performance optimization. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or hiking in the mountains.",
+    "longDescription": "I'm an adaptable and results-oriented individual with a strong work ethic and a proven ability to deliver high-impact solutions across diverse technical domains. Currently pursuing B.Tech in Robotics at Satyabama Institute of Science and Technology, I specialize in full-stack development, AI/ML, and modern web technologies. Quick to learn and comfortable taking ownership of complex tasks, with a focus on solving real-world problems and driving continuous improvement.",
     "highlights": [
-      "5+ years of full-stack development experience",
-      "Expert in React, TypeScript, and modern web technologies",
-      "Built applications serving 100K+ users",
-      "Open source contributor with 500+ GitHub stars",
-      "Passionate about clean code and user experience"
+      "B.Tech in Robotics (2022-2026) with 7.68 CGPA",
+      "Expert in Python, Flask, React.js, and AI/ML technologies",
+      "Built intelligent systems for event management and smart farming",
+      "Certified in Data Analytics and Geospatial Technologies",
+      "Strong foundation in algorithms and data structures"
     ]
   },
   "social": {
-    "github": "https://github.com/alexjohnson",
-    "linkedin": "https://linkedin.com/in/alexjohnson",
-    "twitter": "https://twitter.com/alexjohnson",
-    "dribbble": "https://dribbble.com/alexjohnson",
-    "instagram": "https://instagram.com/alexjohnson"
+    "github": "https://github.com/dhrubasaha",
+    "linkedin": "https://linkedin.com/in/dhrubasaha",
+    "leetcode": "https://leetcode.com/dhrubasaha",
+    "email": "mailto:dhrubasaha204@gmail.com"
   },
   "hobbies": [
-    "Photography",
-    "Hiking & Outdoor Adventures", 
-    "Open Source Contributing",
-    "Reading Tech Blogs",
-    "Playing Guitar",
-    "Cooking"
+    "Machine Learning Research",
+    "Open Source Contributing", 
+    "Competitive Programming",
+    "Reading Tech Papers",
+    "Problem Solving",
+    "AI/ML Projects"
   ],
   "seo": {
-    "title": "Alex Johnson - Full Stack Developer",
-    "description": "Full Stack Developer specializing in React, TypeScript, and Node.js. Building beautiful, scalable web applications.",
-    "keywords": ["Full Stack Developer", "React Developer", "TypeScript", "Web Development", "Frontend", "Backend"]
+    "title": "Dhruba Saha - Full Stack Developer & AI Enthusiast",
+    "description": "Full Stack Developer specializing in Python, React, AI/ML, and modern web technologies. Building intelligent solutions for real-world problems.",
+    "keywords": ["Full Stack Developer", "Python Developer", "AI/ML", "React", "Web Development", "Machine Learning", "Robotics"]
   }
 }
