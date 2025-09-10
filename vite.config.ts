@@ -9,7 +9,8 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/125e9419-1051-4a6d-b514-96d0012b96cd/",
+  // Use root base on Vercel for proper asset paths; keep existing base elsewhere (e.g., GitHub Pages)
+  base: process.env.VERCEL === "1" ? "/" : "/125e9419-1051-4a6d-b514-96d0012b96cd/",
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {
